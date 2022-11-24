@@ -1,0 +1,13 @@
+C:\Users\ComputerLab4PC1\Documents\Devila\CreatingTextFile\obj\Debug\CreatingTextFile.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\Documents\Devila\CreatingTextFile\obj\Debug\CreatingTextFile.FrmLab1.resources
+C:\Users\ComputerLab4PC1\Documents\Devila\CreatingTextFile\obj\Debug\CreatingTextFile.frmFileName.resources
+C:\Users\ComputerLab4PC1\Documents\Devila\CreatingTextFile\obj\Debug\CreatingTextFile.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\Documents\Devila\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\Documents\Devila\CreatingTextFile\bin\Debug\CreatingTextFile.exe.config
+C:\Users\ComputerLab4PC1\Documents\Devila\CreatingTextFile\bin\Debug\CreatingTextFile.exe
+C:\Users\ComputerLab4PC1\Documents\Devila\CreatingTextFile\bin\Debug\CreatingTextFile.pdb
+C:\Users\ComputerLab4PC1\Documents\Devila\CreatingTextFile\obj\Debug\CreatingTextFile.exe
+C:\Users\ComputerLab4PC1\Documents\Devila\CreatingTextFile\obj\Debug\CreatingTextFile.pdb
+C:\Users\ComputerLab4PC1\Documents\Devila\CreatingTextFile\obj\Debug\CreatingTextFile.frmRegistration.resources
+C:\Users\ComputerLab4PC1\Documents\Devila\CreatingTextFile\obj\Debug\CreatingTextFile.FrmOpenTextFile.resources
+C:\Users\ComputerLab4PC1\Documents\Devila\CreatingTextFile\obj\Debug\CreatingTextFile.FrmStudentRecord.resources
